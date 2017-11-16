@@ -7,5 +7,5 @@ DONT'T BE INDECISIVE ABOUT variables
 
 WORK WITH CLEAR GOALS, ONE GOAL AT A TIME  
 
-that's all.  
-I think I need to go through my variables and make sure he names are semantic.  
+that's all.  oh wait, one more:  
+I think I need to go through my variables and make sure the names are semantic.  
